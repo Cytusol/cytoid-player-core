@@ -2,6 +2,62 @@
 # yarn lockfile v1
 
 
+"@rollup/plugin-node-resolve@^11.2.0":
+  version "11.2.1"
+  resolved "https://registry.npmmirror.com/@rollup/plugin-node-resolve/download/@rollup/plugin-node-resolve-11.2.1.tgz?cache=0&sync_timestamp=1634651560099&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40rollup%2Fplugin-node-resolve%2Fdownload%2F%40rollup%2Fplugin-node-resolve-11.2.1.tgz#82aa59397a29cd4e13248b106e6a4a1880362a60"
+  integrity sha1-gqpZOXopzU4TJIsQbmpKGIA2KmA=
+  dependencies:
+    "@rollup/pluginutils" "^3.1.0"
+    "@types/resolve" "1.17.1"
+    builtin-modules "^3.1.0"
+    deepmerge "^4.2.2"
+    is-module "^1.0.0"
+    resolve "^1.19.0"
+
+"@rollup/pluginutils@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.nlark.com/@rollup/pluginutils/download/@rollup/pluginutils-3.1.0.tgz#706b4524ee6dc8b103b3c995533e5ad680c02b9b"
+  integrity sha1-cGtFJO5tyLEDs8mVUz5a1oDAK5s=
+  dependencies:
+    "@types/estree" "0.0.39"
+    estree-walker "^1.0.1"
+    picomatch "^2.2.2"
+
+"@rollup/pluginutils@^4.1.0":
+  version "4.1.1"
+  resolved "https://registry.nlark.com/@rollup/pluginutils/download/@rollup/pluginutils-4.1.1.tgz#1d4da86dd4eded15656a57d933fda2b9a08d47ec"
+  integrity sha1-HU2obdTt7RVlalfZM/2iuaCNR+w=
+  dependencies:
+    estree-walker "^2.0.1"
+    picomatch "^2.2.2"
+
+"@types/estree@0.0.39":
+  version "0.0.39"
+  resolved "https://registry.npmmirror.com/@types/estree/download/@types/estree-0.0.39.tgz#e177e699ee1b8c22d23174caaa7422644389509f"
+  integrity sha1-4Xfmme4bjCLSMXTKqnQiZEOJUJ8=
+
+"@types/node@*":
+  version "16.11.12"
+  resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.11.12.tgz#ac7fb693ac587ee182c3780c26eb65546a1a3c10"
+  integrity sha512-+2Iggwg7PxoO5Kyhvsq9VarmPbIelXP070HMImEpbtGCoyWNINQj4wzjbQCXzdHTRXnqufutJb5KAURZANNBAw==
+
+"@types/resolve@1.17.1":
+  version "1.17.1"
+  resolved "https://registry.npmmirror.com/@types/resolve/download/@types/resolve-1.17.1.tgz#3afd6ad8967c77e4376c598a82ddd58f46ec45d6"
+  integrity sha1-Ov1q2JZ8d+Q3bFmKgt3Vj0bsRdY=
+  dependencies:
+    "@types/node" "*"
+
+builtin-modules@^3.1.0:
+  version "3.2.0"
+  resolved "https://registry.nlark.com/builtin-modules/download/builtin-modules-3.2.0.tgz#45d5db99e7ee5e6bc4f362e008bf917ab5049887"
+  integrity sha1-RdXbmefuXmvE82LgCL+RerUEmIc=
+
+deepmerge@^4.2.2:
+  version "4.2.2"
+  resolved "https://registry.nlark.com/deepmerge/download/deepmerge-4.2.2.tgz#44d2ea3679b8f4d4ffba33f03d865fc1e7bf4955"
+  integrity sha1-RNLqNnm49NT/ujPwPYZfwee/SVU=
+
 esbuild-android-arm64@0.13.15:
   version "0.13.15"
   resolved "https://registry.npmmirror.com/esbuild-android-arm64/download/esbuild-android-arm64-0.13.15.tgz#3fc3ff0bab76fe35dd237476b5d2b32bb20a3d44"
@@ -110,6 +166,21 @@ esbuild@^0.13.12:
     esbuild-windows-64 "0.13.15"
     esbuild-windows-arm64 "0.13.15"
 
+esbuild@^0.9.6:
+  version "0.9.7"
+  resolved "https://registry.npmmirror.com/esbuild/download/esbuild-0.9.7.tgz#ea0d639cbe4b88ec25fbed4d6ff00c8d788ef70b"
+  integrity sha1-6g1jnL5LiOwl++1Nb/AMjXiO9ws=
+
+estree-walker@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npm.taobao.org/estree-walker/download/estree-walker-1.0.1.tgz#31bc5d612c96b704106b477e6dd5d8aa138cb700"
+  integrity sha1-MbxdYSyWtwQQa0d+bdXYqhOMtwA=
+
+estree-walker@^2.0.1:
+  version "2.0.2"
+  resolved "https://registry.npm.taobao.org/estree-walker/download/estree-walker-2.0.2.tgz#52f010178c2a4c117a7757cfe942adb7d2da4cac"
+  integrity sha1-UvAQF4wqTBF6d1fP6UKtt9LaTKw=
+
 fsevents@~2.3.2:
   version "2.3.2"
   resolved "https://registry.npmmirror.com/fsevents/download/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
@@ -134,6 +205,21 @@ is-core-module@^2.2.0:
   dependencies:
     has "^1.0.3"
 
+is-module@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npm.taobao.org/is-module/download/is-module-1.0.0.tgz#3258fb69f78c14d5b815d664336b4cffb6441591"
+  integrity sha1-Mlj7afeMFNW4FdZkM2tM/7ZEFZE=
+
+joycon@^3.0.1:
+  version "3.1.1"
+  resolved "https://registry.npmmirror.com/joycon/download/joycon-3.1.1.tgz#bce8596d6ae808f8b68168f5fc69280996894f03"
+  integrity sha512-34wB/Y7MW7bzjKRjUKTa46I2Z7eV62Rkhva+KkopW7Qvv/OSWBqvkSY7vusOPrNuZcUG3tApvdVgNB8POj3SPw==
+
+jsonc-parser@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npm.taobao.org/jsonc-parser/download/jsonc-parser-3.0.0.tgz#abdd785701c7e7eaca8a9ec8cf070ca51a745a22"
+  integrity sha1-q914VwHH5+rKip7IzwcMpRp0WiI=
+
 nanoid@^3.1.30:
   version "3.1.30"
   resolved "https://registry.npmmirror.com/nanoid/download/nanoid-3.1.30.tgz?cache=0&sync_timestamp=1634166241996&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fnanoid%2Fdownload%2Fnanoid-3.1.30.tgz#63f93cc548d2a113dc5dfbc63bfa09e2b9b64362"
@@ -149,6 +235,11 @@ picocolors@^1.0.0:
   resolved "https://registry.npmmirror.com/picocolors/download/picocolors-1.0.0.tgz#cb5bdc74ff3f51892236eaf79d68bc44564ab81c"
   integrity sha1-y1vcdP8/UYkiNur3nWi8RFZKuBw=
 
+picomatch@^2.2.2:
+  version "2.3.0"
+  resolved "https://registry.nlark.com/picomatch/download/picomatch-2.3.0.tgz?cache=0&sync_timestamp=1621648305056&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fpicomatch%2Fdownload%2Fpicomatch-2.3.0.tgz#f1f061de8f6a4bf022892e2d128234fb98302972"
+  integrity sha1-8fBh3o9qS/AiiS4tEoI0+5gwKXI=
+
 postcss@^8.3.11:
   version "8.4.4"
   resolved "https://registry.npmmirror.com/postcss/download/postcss-8.4.4.tgz#d53d4ec6a75fd62557a66bb41978bf47ff0c2869"
@@ -158,7 +249,7 @@ postcss@^8.3.11:
     picocolors "^1.0.0"
     source-map-js "^1.0.1"
 
-resolve@^1.20.0:
+resolve@^1.19.0, resolve@^1.20.0:
   version "1.20.0"
   resolved "https://registry.npm.taobao.org/resolve/download/resolve-1.20.0.tgz#629a013fb3f70755d6f0b7935cc1c2c5378b1975"
   integrity sha1-YpoBP7P3B1XW8LeTXMHCxTeLGXU=
@@ -166,7 +257,16 @@ resolve@^1.20.0:
     is-core-module "^2.2.0"
     path-parse "^1.0.6"
 
-rollup@^2.59.0:
+rollup-plugin-esbuild@^3.0.2:
+  version "3.0.4"
+  resolved "https://registry.npmmirror.com/rollup-plugin-esbuild/download/rollup-plugin-esbuild-3.0.4.tgz#4b536a2db2ba1700521eec5fa9535437c7247145"
+  integrity sha1-S1NqLbK6FwBSHuxfqVNUN8ckcUU=
+  dependencies:
+    "@rollup/pluginutils" "^4.1.0"
+    joycon "^3.0.1"
+    jsonc-parser "^3.0.0"
+
+rollup@^2.42.1, rollup@^2.59.0:
   version "2.61.1"
   resolved "https://registry.npmmirror.com/rollup/download/rollup-2.61.1.tgz#1a5491f84543cf9e4caf6c61222d9a3f8f2ba454"
   integrity sha512-BbTXlEvB8d+XFbK/7E5doIcRtxWPRiqr0eb5vQ0+2paMM04Ye4PZY5nHOQef2ix24l/L0SpLd5hwcH15QHPdvA==
@@ -177,6 +277,16 @@ source-map-js@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmmirror.com/source-map-js/download/source-map-js-1.0.1.tgz?cache=0&sync_timestamp=1636401089874&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fsource-map-js%2Fdownload%2Fsource-map-js-1.0.1.tgz#a1741c131e3c77d048252adfa24e23b908670caf"
   integrity sha512-4+TN2b3tqOCd/kaGRJ/sTYA0tR0mdXx26ipdolxcwtJVqEnqNYvlCAt1q3ypy4QMlYus+Zh34RNtYLoq2oQ4IA==
+
+vite-plugin-singlefile@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.npmmirror.com/vite-plugin-singlefile/download/vite-plugin-singlefile-0.5.1.tgz#7211ad34df57ebd9023a257910962322ff9f6c71"
+  integrity sha1-chGtNN9X69kCOiV5EJYjIv+fbHE=
+  dependencies:
+    "@rollup/plugin-node-resolve" "^11.2.0"
+    esbuild "^0.9.6"
+    rollup "^2.42.1"
+    rollup-plugin-esbuild "^3.0.2"
 
 vite@^2.6.4:
   version "2.7.1"

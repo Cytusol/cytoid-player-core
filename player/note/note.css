@@ -1,6 +1,6 @@
 
 :root {
-  --note-image: url('./note50.png')
+  --note-image: url('/note/note50.png')
 }
 
 
@@ -3292,7 +3292,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(44.0 * var(--body-width)) calc(43.5 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3324,7 +3324,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(11.0 * var(--body-width)) calc(21.75 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3356,7 +3356,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(44.0 * var(--body-width)) calc(43.5 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3388,7 +3388,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(176.0 * var(--body-width)) calc(174.0 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3420,7 +3420,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(176.0 * var(--body-width)) calc(174.0 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3452,7 +3452,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(22.0 * var(--body-width)) calc(21.75 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3484,7 +3484,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(22.0 * var(--body-width)) calc(21.75 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3516,7 +3516,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(176.0 * var(--body-width)) calc(174.0 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3547,7 +3547,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(88.0 * var(--body-width)) calc(87.0 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3579,7 +3579,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(11.0 * var(--body-width)) calc(21.75 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3611,7 +3611,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(11.0 * var(--body-width)) calc(21.75 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3643,7 +3643,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(22.0 * var(--body-width)) calc(21.75 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3675,7 +3675,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(22.0 * var(--body-width)) calc(21.75 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3706,7 +3706,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(44.0 * var(--body-width)) calc(43.5 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3737,7 +3737,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(44.0 * var(--body-width)) calc(43.5 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3769,7 +3769,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(44.0 * var(--body-width)) calc(43.5 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3801,7 +3801,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(22.0 * var(--body-width)) calc(21.75 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -3837,7 +3837,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-size: calc(44.0 * var(--body-width)) calc(174.0 * var(--body-height));
   background-repeat: no-repeat;
   opacity: 0;
@@ -4316,7 +4316,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-repeat: no-repeat;
   background-size: calc(73.0 * var(--body-width)) calc(72.0 * var(--body-height));
   background-position: 100.0% 15.492957746478872%;
@@ -4325,7 +4325,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-repeat: no-repeat;
   background-size: calc(36.5 * var(--body-width)) calc(36.0 * var(--body-height));
   background-position: 95.77464788732394% 2.857142857142857%;
@@ -4334,7 +4334,7 @@
   width: var(--body-width);
   height: var(--body-height);
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
-  background-image: var(--note-image, url('./note75.png'));
+  background-image: var(--note-image, url('/note/note50.png'));
   background-repeat: no-repeat;
   background-size: calc(36.5 * var(--body-width)) calc(36.0 * var(--body-height));
   background-position: 95.77464788732394% 0.0%;
@@ -4395,7 +4395,7 @@
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
   background-image: linear-gradient(to right, #fff, #fff 12.5%, #78C2EE 12.5%, #78C2EE 87.5%, #fff 87.5%, #fff);;
   border-radius: calc(0.5 * var(--body-height));
-  /* background-image: var(--note-image, url('./note75.png'));
+  /* background-image: var(--note-image, url('/note/note50.png'));
   background-position: 20.689655172413794% 98.99280575539568%;
   background-size: calc(88.0 * var(--body-width)) calc(696.0 * var(--body-height));
   background-repeat: no-repeat; */
@@ -4428,7 +4428,7 @@
   margin: calc(-1 * var(--body-height) / 2) calc(-1 * var(--body-width) / 2);
   background-image: linear-gradient(to right, #fff, #fff 12.5%, #7CEE78 12.5%, #7CEE78 87.5%, #fff 87.5%, #fff);;
   border-radius: calc(0.5 * var(--body-height));
-  /* background-image: var(--note-image, url('./note75.png'));
+  /* background-image: var(--note-image, url('/note/note50.png'));
   background-position: 20.689655172413794% 98.99280575539568%;
   background-size: calc(88.0 * var(--body-width)) calc(696.0 * var(--body-height));
   background-repeat: no-repeat; */
@@ -4455,7 +4455,7 @@
 }
 
 .preload-note {
-  background-image: var(--note-image, url('./note75.png')); width: 10px; height: 10px; opacity: 0.001; z-index: 1000;
+  background-image: var(--note-image, url('/note/note50.png')); width: 10px; height: 10px; opacity: 0.001; z-index: 1000;
   
   background-size: calc(18.25 * var(--body-width)) calc(18.0 * var(--body-height));
   background-position: 34.78260869565217% 94.11764705882352%;

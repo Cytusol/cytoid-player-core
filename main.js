@@ -126,7 +126,7 @@ function sendState(timestamp) {
       type: "playerState",
       value: {
         state: player.playState,
-        playSpeed: player.playSpeed,
+        playSpeed: player.playingData.playSpeed,
         deviceOffset: player.deviceOffset,
         time: player.time / 1000 || 0,
         tick: player.tick,
