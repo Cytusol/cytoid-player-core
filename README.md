@@ -2,19 +2,19 @@
  
 > The player core of Cytusol Player
 
-# Install
+## Install
 
 ```
 yarn
 ```
 
-# Run a server
+## Run a server
 
 ```
 yarn dev
 ```
 
-# Build the core
+## Build the core
 
 ```
 yarn build
